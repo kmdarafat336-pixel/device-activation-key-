@@ -25,7 +25,7 @@
         "username": "arafat2872",
         "password": "013287",
         "expirydate": "28-11-3000",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "9b05bfe2422368e7",
