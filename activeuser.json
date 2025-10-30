@@ -40,5 +40,12 @@
         "password": "01779",
         "expirydate": "28-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "c927448fb6cc3ec2",
+        "username": "shakib123",
+        "password": "013212",
+        "expirydate": "01-11-2025",
+        "Allowoffline": false
     }
 ]
