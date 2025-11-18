@@ -32,7 +32,7 @@
         "username": "goutam123",
         "password": "01892",
         "expirydate": "14-11-2026",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "ad27e9891d00d73e",
