@@ -33,5 +33,12 @@
         "password": "01892",
         "expirydate": "14-11-2026",
         "Allowoffline": false
+    },
+    d{
+        "device_id": ad27e9891d00d73e",
+        "username": shihab123",
+        "password": "01306",
+        "expirydate": "25-10-2025",
+        "Allowoffline": false
     }
 ]
