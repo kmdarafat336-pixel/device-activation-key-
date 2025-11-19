@@ -11,21 +11,21 @@
         "username": "rohid12345",
         "password": "01306",
         "expirydate": "01-11-2030",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "c3f1b7baeb6e4aa3",
         "username": "meherab12345",
         "password": "01779",
         "expirydate": "28-10-2025",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "c927448fb6cc3ec2",
         "username": "shakib123",
         "password": "013212",
         "expirydate": "30-11-2025",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "a7fa64bfca771e3d",
